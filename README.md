@@ -1,8 +1,8 @@
 # Multi-Organ/Tumor Segmentation
 ### Dataset
 * Dataloader is in the `MOTSDataset.py` file. Data should be in the `dataset` folder. 
-* Upload `0123456_spacing_same` folder with data to `dataset` folder.
-* `list` folder contains the directories for the test and train data subsets. Can be edited for less data
+* Download the data from [here](https://drive.google.com/drive/folders/1RzSol6POqZcAusxOnAdzMH5XBBGzc5j6?usp=sharing) and make sure you combine all the seperate data folders into one folder called "0123456_spacing_same" and upload the `0123456_spacing_same` folder to `dataset` folder.
+* `list` folder contains the directories for the test and train data subsets. Can be edited to change the amount of training and testing data.
 
 
 ***
